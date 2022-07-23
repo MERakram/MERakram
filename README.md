@@ -49,6 +49,7 @@
 
 ###
 
+![Example](output/snake.svg)
 <img href="https://github.com/MERakram/MERakram/blob/output/snake.svg" alt="Snake animation" />
 
 ###
