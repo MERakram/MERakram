@@ -49,7 +49,7 @@
 
 ###
 
-![snake gif](https://github.com/MERakram/MERakram/blob/output/github-contribution-grid-snake.gif)
+<img href="https://github.com/MERakram/MERakram/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
