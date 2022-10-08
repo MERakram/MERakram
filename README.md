@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working at a Private Company<br>✨ Creating bugs since 2019<br>📚 I'm currently learning Django<br>🎯 Goals: Big goals<br>🎲 Fun fact: Canada is south of Detroit</p>
+<p align="left">🔭 I’m currently working at a Private Company<br>✨ Creating bugs since 2019<br>🎯 Goals: Big goals<br>🎲 Fun fact: Canada is south of Detroit</p>
 
 ###
 
