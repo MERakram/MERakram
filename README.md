@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Akram aka GAMA and I'm a mobile developer (full stack soon...)</p>
+<p align="left">My name is Akram aka GAMA and I'm a developer </p>
 
 ###
 
